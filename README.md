@@ -276,6 +276,7 @@ This laboratory is intended strictly for education and authorized security testi
 **Devarotech**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Najeem%20Omokunmi%20Atanda-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omokunmi-atanda-najeem-13443328a/)
+[![GitHub](https://github.com/Devarotech/Cybersecurity-Lab-Setup/blob/main/README.md)
 
 </div>
 
